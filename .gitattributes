@@ -7,3 +7,6 @@ models/Word2Vec/*.model filter=lfs diff=lfs merge=lfs -text
 models/Word2Vec/*.npy filter=lfs diff=lfs merge=lfs -text
 models/GloVe/*.npy filter=lfs diff=lfs merge=lfs -text
 models/GloVe/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/SBERT/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/SBERT/*.csv filter=lfs diff=lfs merge=lfs -text
+models/SBERT/*.npy filter=lfs diff=lfs merge=lfs -text
