@@ -10,3 +10,6 @@ models/GloVe/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/SBERT/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/SBERT/*.csv filter=lfs diff=lfs merge=lfs -text
 models/SBERT/*.npy filter=lfs diff=lfs merge=lfs -text
+models/TF_IDF_SBERT/*.json filter=lfs diff=lfs merge=lfs -text
+models/TF_IDF_SBERT/*.csv filter=lfs diff=lfs merge=lfs -text
+models/TF_IDF_SBERT/*.pkl filter=lfs diff=lfs merge=lfs -text
