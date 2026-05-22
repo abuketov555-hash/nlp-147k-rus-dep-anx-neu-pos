@@ -21,3 +21,7 @@ models/FTFIDF_SBERT/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT/*.npy filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT/*.npz filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT/*.csv filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_calibration/*.json filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_calibration/*.csv filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_calibration/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_calibration/*.npy filter=lfs diff=lfs merge=lfs -text
