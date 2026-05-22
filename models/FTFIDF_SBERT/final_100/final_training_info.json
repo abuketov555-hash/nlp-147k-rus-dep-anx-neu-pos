@@ -1,0 +1,22 @@
+{
+  "label_names": [
+    "anx",
+    "dep",
+    "neu",
+    "pos"
+  ],
+  "embedding_info": {
+    "shape": [
+      146811,
+      1024
+    ],
+    "dtype": "float32",
+    "build_time_sec": 6668.2239112854,
+    "memory_bytes": 601337856,
+    "memory_mb_10e6": 601.337856,
+    "memory_mib_2e20": 573.48046875
+  },
+  "trained_on_full_data": true,
+  "n_samples_full": 146811,
+  "n_classes": 4
+}
