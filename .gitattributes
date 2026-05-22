@@ -16,3 +16,4 @@ models/TF_IDF_SBERT/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/WTF_IDF_SBERT/*.json filter=lfs diff=lfs merge=lfs -text
 models/WTF_IDF_SBERT/*.csv filter=lfs diff=lfs merge=lfs -text
 models/WTF_IDF_SBERT/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT/*.json filter=lfs diff=lfs merge=lfs -text
