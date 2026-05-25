@@ -25,3 +25,13 @@ models/FTFIDF_SBERT_calibration/*.json filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_calibration/*.csv filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_calibration/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_calibration/*.npy filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*json filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*safetensors filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*md filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*.json filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*.safetensors filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*.md filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*.npy filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*.npz filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/*.csv filter=lfs diff=lfs merge=lfs -text
