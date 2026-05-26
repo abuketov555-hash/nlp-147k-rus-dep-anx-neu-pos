@@ -46,3 +46,10 @@ models/FTFIDF_SBERT_2/final_100/**/*.safetensors filter=lfs diff=lfs merge=lfs -
 models/FTFIDF_SBERT_2/final_100/**/*.md filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_2/final_100/**/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_2/final_100/**/*.npy filter=lfs diff=lfs merge=lfs -text
+models/holdout_70_30/**/*.json filter=lfs diff=lfs merge=lfs -text
+models/holdout_70_30/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
+models/holdout_70_30/**/*.md filter=lfs diff=lfs merge=lfs -text
+models/holdout_70_30/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/holdout_70_30/**/*.npy filter=lfs diff=lfs merge=lfs -text
+models/holdout_70_30/**/*.npz filter=lfs diff=lfs merge=lfs -text
+models/holdout_70_30/**/*.csv filter=lfs diff=lfs merge=lfs -text
