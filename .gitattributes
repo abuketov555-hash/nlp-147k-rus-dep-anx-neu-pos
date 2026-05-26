@@ -60,3 +60,5 @@ models/FTFIDF_SBERT_2/holdout_70_30/**/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_2/holdout_70_30/**/*.npy filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_2/holdout_70_30/**/*.npz filter=lfs diff=lfs merge=lfs -text
 models/FTFIDF_SBERT_2/holdout_70_30/**/*.csv filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/tfidf_search/**/*.json filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/tfidf_search/**/*.csv filter=lfs diff=lfs merge=lfs -text
