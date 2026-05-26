@@ -41,3 +41,8 @@ models/FTFIDF_SBERT_2/final_100/*.md filter=lfs diff=lfs merge=lfs -text
 models/final_100/*.json filter=lfs diff=lfs merge=lfs -text
 models/final_100/*.safetensors filter=lfs diff=lfs merge=lfs -text
 models/final_100/*.md filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/final_100/**/*.json filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/final_100/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/final_100/**/*.md filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/final_100/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/FTFIDF_SBERT_2/final_100/**/*.npy filter=lfs diff=lfs merge=lfs -text
