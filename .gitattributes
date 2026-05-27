@@ -72,3 +72,8 @@ models/CAFTFIDF_SBERT2/**/*.pkl filter=lfs diff=lfs merge=lfs -text
 models/CAFTFIDF_SBERT2/**/*.npz filter=lfs diff=lfs merge=lfs -text
 models/CAFTFIDF_SBERT2/**/*.npy filter=lfs diff=lfs merge=lfs -text
 models/CAFTFIDF_SBERT2/**/*.csv filter=lfs diff=lfs merge=lfs -text
+models/CAFTFIDF_SBERT2_1/**/*.json filter=lfs diff=lfs merge=lfs -text
+models/CAFTFIDF_SBERT2_1/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/CAFTFIDF_SBERT2_1/**/*.npz filter=lfs diff=lfs merge=lfs -text
+models/CAFTFIDF_SBERT2_1/**/*.npy filter=lfs diff=lfs merge=lfs -text
+models/CAFTFIDF_SBERT2_1/**/*.csv filter=lfs diff=lfs merge=lfs -text
