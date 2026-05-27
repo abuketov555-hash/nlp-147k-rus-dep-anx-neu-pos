@@ -29,7 +29,8 @@
 - SBERT(-encoder) + LinearSVC
 - гибридные модели вида TFIDF-SBERT + LinearSVC/LogReg
 
-Список зависимостей для воспроизведения экспериментов приведён в requirements.txt.
+Список зависимостей для воспроизведения экспериментов приведён в requirements.txt. Модели, использующие SBERT, используют модель: ai-forever/sbert_large_nlu_ru // Hugging Face : сайт. – URL: https://huggingf
+ace.co/ai-forever/sbert_large_nlu_ru локально. 
 
 ## Цель проекта
 
